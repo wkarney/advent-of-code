@@ -65,7 +65,8 @@ Here are the initial and final states of a few more small programs:
 Once you have a working computer, the first step is to restore the gravity assist program (your puzzle input) 
 to the "1202 program alarm" state it had just before the last computer caught fire. 
 To do this, before running the program, replace position 1 with the value 12 and replace position 2 with the value 2. 
-What value is left at position 0 after the program halts?
+
+**What value is left at position 0 after the program halts?**
 
 --- Part Two ---
 
@@ -99,5 +100,5 @@ Once the program has halted, its output is available at address 0, also just lik
 Each time you try a pair of inputs, make sure you first reset the computer's memory 
 to the values in the program (your puzzle input) - in other words, don't reuse memory from a previous attempt.
 
-Find the input noun and verb that cause the program to produce the output 19690720. 
-What is 100 * noun + verb? (For example, if noun=12 and verb=2, the answer would be 1202.)
+**Find the input noun and verb that cause the program to produce the output 19690720. 
+What is 100 * noun + verb? (For example, if noun=12 and verb=2, the answer would be 1202.)**
