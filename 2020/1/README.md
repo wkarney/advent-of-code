@@ -1,6 +1,6 @@
-## Day 1: ______________
+## Day 1: Report Repair 
 
---- Report Repair ---
+--- Part One ---
 
 After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
 
