@@ -8,9 +8,11 @@ Starting on December 1 at midnight EST (UTC-5), one puzzle unlocks each day thro
 
 
 ## Link to Puzzles / Solutions
-* [2020](https://github.com/wkarney/advent-of-code/blob/master/2020)
-* [2019](https://github.com/wkarney/advent-of-code/blob/master/2019)
-* [2018](https://github.com/wkarney/advent-of-code/blob/master/2018)
-* [2017](https://github.com/wkarney/advent-of-code/blob/master/2017)
-* [2016](https://github.com/wkarney/advent-of-code/blob/master/2016)
-* [2015](https://github.com/wkarney/advent-of-code/blob/master/2015)
+* [2022](https://github.com/wkarney/advent-of-code/blob/main/2021)
+* [2021](https://github.com/wkarney/advent-of-code/blob/main/2022)
+* [2020](https://github.com/wkarney/advent-of-code/blob/main/2020)
+* [2019](https://github.com/wkarney/advent-of-code/blob/main/2019)
+* [2018](https://github.com/wkarney/advent-of-code/blob/main/2018)
+* [2017](https://github.com/wkarney/advent-of-code/blob/main/2017)
+* [2016](https://github.com/wkarney/advent-of-code/blob/main/2016)
+* [2015](https://github.com/wkarney/advent-of-code/blob/main/2015)
